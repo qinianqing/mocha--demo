@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 This repo is for my article ["A Mocha tutorial of Examples"](http://www.ruanyifeng.com/blog/2015/12/a-mocha-tutorial-of-examples.html) (in Chinese).
 
 > "Mocha is a feature-rich JavaScript test framework running on Node.js and the browser, making asynchronous testing simple and fun."
@@ -49,4 +49,3 @@ MIT
 =======
 # mocha--demo
 自动化测试框架DEMO
->>>>>>> 4273743dad7719dd50a476dae6c9f980a51ceda8
